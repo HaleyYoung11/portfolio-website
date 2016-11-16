@@ -12,6 +12,11 @@
                     <p>Responsive website design and development, WordPress, writing</p>
                 </div>-->
                 <div class="project-grid">
+                    <a href="installpropose.php"><img src="/img/installproposethumb.jpg" alt="A clickable thumbnail previewing my Design and Engineering 3D modeling project"></a>
+                    <h2>Design and Engineering</h2>
+                    <p>3D modeling, digital design, writing</p>
+                </div>
+                <div class="project-grid">
                     <a href="oldportfoliodesign.php"><img src="/img/InitialPortfolioThumb.png" alt="A clickable thumbnail previewing my original portfolio website design"></a>
                     <h2>Initial Portfolio Design</h2>
                     <p>Responsive website design and development</p>
